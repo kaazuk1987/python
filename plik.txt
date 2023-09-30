@@ -1,0 +1,10 @@
+W sytuacjach, kiedy liczby całkowite lub jakiekolwiek inne dane zapisywane są przy użyciu wielu (przynajmniej dwóch) bajtów, nie istnieje jeden unikatowy sposób uporządkowania tych bajtów w pamięci lub w czasie transmisji przez dowolne medium i musi być użyta jedna z wielu konwencji ustalająca kolejność bajtów (ang. byte order lub endianness). Jest to analogiczne do zapisu pozycyjnego liczb lub kierunku pisma w różnych językach – ze strony lewej na prawą albo z prawej na lewą.
+
+Big endian
+Big endian[1] (spotykane także grubokońcowość[2]) to forma zapisu danych, w której najbardziej znaczący bajt (zwany też górnym bajtem, z ang. high-order byte) umieszczony jest jako pierwszy[1].
+
+Procesory, które używają formy big endian, to między innymi HP Intel Itanium, SPARC, Motorola 68000[3], PowerPC 970, IBM System/360, Siemens SIMATIC S7.
+
+Jest ona analogiczna do używanego na co dzień przez ludzi sposobu zapisu liczb.
+
+Procesor zapisujący 32-bitowe wartości w pamięci, przykładowo 0x4A3B2C1D pod adresem 100, umieszcza dane, zajmując adresy od 100 do 103 w następującej kolejności:Now the file has more content!Now the file has more content!Now the file has more content!Now the file has more content!Now the file has more content!
